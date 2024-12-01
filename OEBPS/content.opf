@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 16.2.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Experimental Portfolio nº 2</dc:title>
+		<dc:date>2024-11-23T18:00:48Z</dc:date>
+		<dc:language>en</dc:language>
+		<meta property="dcterms:modified">2024-11-23T18:00:51Z</meta>
+		<dc:identifier id="bookid">urn:uuid:b4a6de0c-19fb-40d4-85ef-3607d1ac1b74</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">none</meta>
+	</metadata>
+	<manifest>
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-1" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-2" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-3" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-4" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-5" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-6" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-7" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-8" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-9" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-10" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-11" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-12" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-13" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-13.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-14" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-14.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-15" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-15.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-16" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-16.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-17" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-17.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-18" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-18.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-19" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-19.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-20" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-20.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-21" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-21.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-22" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-22.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-23" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-23.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-24" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-24.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-25" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-25.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-26" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-26.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-27" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-27.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-28" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-28.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-29" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-29.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-30" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-30.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-31" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-31.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-32" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-32.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-33" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-33.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-34" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-34.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-35" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-35.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-36" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-36.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-37" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-37.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-38" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-38.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-39" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-39.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-40" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-40.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-41" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-41.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-42" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-42.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-43" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-43.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-44" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-44.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-45" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-45.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-46" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-46.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-47" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-47.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-48" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-48.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-49" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-49.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-50" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-50.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-51" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-51.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-52" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-52.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-53" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-53.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-54" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-54.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-55" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-55.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-56" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-56.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-57" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-57.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-58" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-58.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-59" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-59.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-60" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-60.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-61" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-61.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-62" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-62.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-63" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-63.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-64" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-64.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-65" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-65.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-66" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-66.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-67" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-67.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-68" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-68.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-69" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-69.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-70" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-70.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-71" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-71.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-72" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-72.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-73" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-73.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-74" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-74.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-75" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-75.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-76" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-76.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-77" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-77.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-78" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-78.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-79" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-79.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-80" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-80.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-81" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-81.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-82" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-82.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-83" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-83.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-84" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-84.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-85" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-85.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-86" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-86.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-87" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-87.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-88" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-88.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-89" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-89.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-90" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-90.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-91" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-91.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-92" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-92.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-93" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-93.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-94" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-94.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-95" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-95.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-96" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-96.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-97" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-97.xhtml" media-type="application/xhtml+xml" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-98" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-98.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-99" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-99.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-100" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-100.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-101" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-101.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-102" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-102.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-103" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-103.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-104" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-104.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-105" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-105.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-106" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-106.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-107" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-107.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-108" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-108.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-109" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-109.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-110" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-110.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-111" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-111.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-112" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-112.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-113" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-113.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-114" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-114.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-115" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-115.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-116" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-116.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-117" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-117.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-118" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-118.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-119" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-119.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-120" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-120.xhtml" media-type="application/xhtml+xml" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-121" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-121.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-122" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-122.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-123" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-123.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-124" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-124.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-125" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-125.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-126" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-126.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-127" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-127.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-128" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-128.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-129" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-129.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-130" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-130.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-131" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-131.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-132" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-132.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-133" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-133.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-134" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-134.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-135" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-135.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-136" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-136.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-137" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-137.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-138" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-138.xhtml" media-type="application/xhtml+xml" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-139" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-139.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-140" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-140.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-141" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-141.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-142" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-142.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-143" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-143.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-144" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-144.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-145" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-145.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-146" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-146.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-147" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-147.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-148" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-148.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-149" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-149.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-150" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-150.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-151" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-151.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-152" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-152.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-153" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-153.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-154" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-154.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-155" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-155.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-156" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-156.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-157" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-157.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-158" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-158.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-159" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-159.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-160" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-160.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-161" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-161.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-162" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-162.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-163" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-163.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-164" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-164.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-165" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-165.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-166" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-166.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-167" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-167.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-168" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-168.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-169" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-169.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-170" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-170.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-171" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-171.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-172" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-172.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-173" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-173.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-174" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-174.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-175" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-175.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-176" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-176.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-177" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-177.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-178" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-178.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-179" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-179.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-180" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-180.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-181" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-181.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-182" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-182.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-183" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-183.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-184" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-184.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-185" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-185.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-186" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-186.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-187" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-187.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-188" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-188.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-189" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-189.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-190" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-190.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-191" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-191.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-192" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-192.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-193" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-193.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-194" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-194.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-195" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-195.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-196" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-196.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-197" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-197.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-198" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-198.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-199" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-199.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-200" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-200.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-201" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-201.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-202" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-202.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-203" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-203.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-204" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-204.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-205" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-205.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-206" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-206.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-207" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-207.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-208" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-208.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-209" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-209.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-210" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-210.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-211" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-211.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-212" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-212.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-213" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-213.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-214" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-214.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-215" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-215.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-216" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-216.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-217" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-217.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-218" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-218.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-219" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-219.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-220" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-220.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-221" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-221.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-222" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-222.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-223" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-223.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-224" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-224.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-225" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-225.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-226" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-226.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-227" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-227.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-228" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-228.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-229" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-229.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-230" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-230.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-231" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-231.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-232" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-232.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-233" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-233.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-234" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-234.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-235" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-235.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-236" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-236.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-237" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-237.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-238" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-238.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-239" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-239.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-240" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-240.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-241" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-241.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-242" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-242.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-243" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-243.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-244" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-244.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-245" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-245.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-246" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-246.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-247" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-247.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-248" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-248.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-249" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-249.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-250" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-250.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-251" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-251.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-252" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-252.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-253" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-253.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-254" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-254.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-255" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-255.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-256" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-256.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-257" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-257.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-258" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-258.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-259" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-259.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-260" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-260.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-261" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-261.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-262" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-262.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-263" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-263.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-264" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-264.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-265" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-265.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-266" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-266.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-267" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-267.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-268" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-268.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-269" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-269.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-270" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-270.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-271" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-271.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-272" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-272.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-273" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-273.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-274" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-274.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-275" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-275.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-276" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-276.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-277" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-277.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-278" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-278.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-279" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-279.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-280" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-280.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-281" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-281.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-282" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-282.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-283" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-283.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-284" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-284.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-285" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-285.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-286" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-286.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-287" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-287.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-288" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-288.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-289" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-289.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-290" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-290.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-291" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-291.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-292" href="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-292.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="x03._Collaborative_Unit_nonpressed.png" href="image/03._Collaborative_Unit_nonpressed.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_nonpressed1.png" href="image/03._Collaborative_Unit_nonpressed1.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_nonpressed2.png" href="image/03._Collaborative_Unit_nonpressed2.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_nonpressed3.png" href="image/03._Collaborative_Unit_nonpressed3.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_pressed.png" href="image/03._Collaborative_Unit_pressed.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_red.png" href="image/03._Collaborative_Unit_red.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_task.png" href="image/03._Collaborative_Unit_task.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_task1.png" href="image/03._Collaborative_Unit_task1.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_task2.png" href="image/03._Collaborative_Unit_task2.png" media-type="image/png" />
+		<item id="x03._Collaborative_Unit_task3.png" href="image/03._Collaborative_Unit_task3.png" media-type="image/png" />
+		<item id="x03_folder_window.png" href="image/03_folder_window.png" media-type="image/png" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x10.1_IMAGE_WINDOW.png" href="image/10.1_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="x102.png" href="image/102.png" media-type="image/png" />
+		<item id="x104.png" href="image/104.png" media-type="image/png" />
+		<item id="x105.png" href="image/105.png" media-type="image/png" />
+		<item id="x108.png" href="image/108.png" media-type="image/png" />
+		<item id="x114.png" href="image/114.png" media-type="image/png" />
+		<item id="x118.png" href="image/118.png" media-type="image/png" />
+		<item id="x119.png" href="image/119.png" media-type="image/png" />
+		<item id="x12.1_IMAGE_WINDOW.png" href="image/12.1_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x124.png" href="image/124.png" media-type="image/png" />
+		<item id="x128.png" href="image/128.png" media-type="image/png" />
+		<item id="x129.png" href="image/129.png" media-type="image/png" />
+		<item id="x12_IMAGE_WINDOW.png" href="image/12_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="x13.MP4_PRESSED.png" href="image/13.MP4_PRESSED.png" media-type="image/png" />
+		<item id="x134.png" href="image/134.png" media-type="image/png" />
+		<item id="x141.png" href="image/141.png" media-type="image/png" />
+		<item id="x144.png" href="image/144.png" media-type="image/png" />
+		<item id="x148.png" href="image/148.png" media-type="image/png" />
+		<item id="x15.1_IMAGE_WINDOW.png" href="image/15.1_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="x152.png" href="image/152.png" media-type="image/png" />
+		<item id="x157.png" href="image/157.png" media-type="image/png" />
+		<item id="x164.png" href="image/164.png" media-type="image/png" />
+		<item id="x167.png" href="image/167.png" media-type="image/png" />
+		<item id="x170.png" href="image/170.png" media-type="image/png" />
+		<item id="x176.png" href="image/176.png" media-type="image/png" />
+		<item id="x18.MP4_PRESSED.png" href="image/18.MP4_PRESSED.png" media-type="image/png" />
+		<item id="x186.png" href="image/186.png" media-type="image/png" />
+		<item id="x187.png" href="image/187.png" media-type="image/png" />
+		<item id="x189.png" href="image/189.png" media-type="image/png" />
+		<item id="x192.png" href="image/192.png" media-type="image/png" />
+		<item id="x198.png" href="image/198.png" media-type="image/png" />
+		<item id="x1_DIZZIAK_FILM_PRESSED.png" href="image/1_DIZZIAK_FILM_PRESSED.png" media-type="image/png" />
+		<item id="x1_DIZZIAK_FILM_PRESSED1.png" href="image/1_DIZZIAK_FILM_PRESSED1.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x204.png" href="image/204.png" media-type="image/png" />
+		<item id="x207.png" href="image/207.png" media-type="image/png" />
+		<item id="x213.png" href="image/213.png" media-type="image/png" />
+		<item id="x214.png" href="image/214.png" media-type="image/png" />
+		<item id="x222.png" href="image/222.png" media-type="image/png" />
+		<item id="x224.png" href="image/224.png" media-type="image/png" />
+		<item id="x227.png" href="image/227.png" media-type="image/png" />
+		<item id="x229.png" href="image/229.png" media-type="image/png" />
+		<item id="x23.MP4_PRESSED.png" href="image/23.MP4_PRESSED.png" media-type="image/png" />
+		<item id="x230.png" href="image/230.png" media-type="image/png" />
+		<item id="x233.png" href="image/233.png" media-type="image/png" />
+		<item id="x236.png" href="image/236.png" media-type="image/png" />
+		<item id="x237.png" href="image/237.png" media-type="image/png" />
+		<item id="x241.png" href="image/241.png" media-type="image/png" />
+		<item id="x246.png" href="image/246.png" media-type="image/png" />
+		<item id="x25.png" href="image/25.png" media-type="image/png" />
+		<item id="x252.png" href="image/252.png" media-type="image/png" />
+		<item id="x253.png" href="image/253.png" media-type="image/png" />
+		<item id="x256.png" href="image/256.png" media-type="image/png" />
+		<item id="x257.png" href="image/257.png" media-type="image/png" />
+		<item id="x26.MP4_PRESSED.png" href="image/26.MP4_PRESSED.png" media-type="image/png" />
+		<item id="x26.png" href="image/26.png" media-type="image/png" />
+		<item id="x266.png" href="image/266.png" media-type="image/png" />
+		<item id="x267.png" href="image/267.png" media-type="image/png" />
+		<item id="x269.png" href="image/269.png" media-type="image/png" />
+		<item id="x277.png" href="image/277.png" media-type="image/png" />
+		<item id="x278.png" href="image/278.png" media-type="image/png" />
+		<item id="x28.02.2024_Presentation_Feedback_PDF_WINDOW.png" href="image/28.02.2024_Presentation_Feedback_PDF_WINDOW.png" media-type="image/png" />
+		<item id="x280.png" href="image/280.png" media-type="image/png" />
+		<item id="x282.png" href="image/282.png" media-type="image/png" />
+		<item id="x288.png" href="image/288.png" media-type="image/png" />
+		<item id="x289.png" href="image/289.png" media-type="image/png" />
+		<item id="x296.png" href="image/296.png" media-type="image/png" />
+		<item id="x299.png" href="image/299.png" media-type="image/png" />
+		<item id="x2_IMAGE_WINDOW.png" href="image/2_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="x300.png" href="image/300.png" media-type="image/png" />
+		<item id="x305.png" href="image/305.png" media-type="image/png" />
+		<item id="x31.png" href="image/31.png" media-type="image/png" />
+		<item id="x310.png" href="image/310.png" media-type="image/png" />
+		<item id="x315.png" href="image/315.png" media-type="image/png" />
+		<item id="x317.png" href="image/317.png" media-type="image/png" />
+		<item id="x318.png" href="image/318.png" media-type="image/png" />
+		<item id="x325.png" href="image/325.png" media-type="image/png" />
+		<item id="x331.png" href="image/331.png" media-type="image/png" />
+		<item id="x34.png" href="image/34.png" media-type="image/png" />
+		<item id="x340.png" href="image/340.png" media-type="image/png" />
+		<item id="x342.png" href="image/342.png" media-type="image/png" />
+		<item id="x347.png" href="image/347.png" media-type="image/png" />
+		<item id="x351.png" href="image/351.png" media-type="image/png" />
+		<item id="x352.png" href="image/352.png" media-type="image/png" />
+		<item id="x356.png" href="image/356.png" media-type="image/png" />
+		<item id="x362.png" href="image/362.png" media-type="image/png" />
+		<item id="x363.png" href="image/363.png" media-type="image/png" />
+		<item id="x364.png" href="image/364.png" media-type="image/png" />
+		<item id="x368.png" href="image/368.png" media-type="image/png" />
+		<item id="x371.png" href="image/371.png" media-type="image/png" />
+		<item id="x375.png" href="image/375.png" media-type="image/png" />
+		<item id="x38.png" href="image/38.png" media-type="image/png" />
+		<item id="x380.png" href="image/380.png" media-type="image/png" />
+		<item id="x383.png" href="image/383.png" media-type="image/png" />
+		<item id="x384.png" href="image/384.png" media-type="image/png" />
+		<item id="x39.png" href="image/39.png" media-type="image/png" />
+		<item id="x396.png" href="image/396.png" media-type="image/png" />
+		<item id="x400.png" href="image/400.png" media-type="image/png" />
+		<item id="x406.png" href="image/406.png" media-type="image/png" />
+		<item id="x407.png" href="image/407.png" media-type="image/png" />
+		<item id="x48.png" href="image/48.png" media-type="image/png" />
+		<item id="x5.2_IMAGE_WINDOW.png" href="image/5.2_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x50.png" href="image/50.png" media-type="image/png" />
+		<item id="x54.png" href="image/54.png" media-type="image/png" />
+		<item id="x55.png" href="image/55.png" media-type="image/png" />
+		<item id="x68.png" href="image/68.png" media-type="image/png" />
+		<item id="x71.png" href="image/71.png" media-type="image/png" />
+		<item id="x76.png" href="image/76.png" media-type="image/png" />
+		<item id="x80.png" href="image/80.png" media-type="image/png" />
+		<item id="x84.png" href="image/84.png" media-type="image/png" />
+		<item id="x91.png" href="image/91.png" media-type="image/png" />
+		<item id="x92.png" href="image/92.png" media-type="image/png" />
+		<item id="x94.png" href="image/94.png" media-type="image/png" />
+		<item id="x9T0A9675_IMAGE_WINDOW.png" href="image/9T0A9675_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="x9T0A9684_IMAGE_WINDOW.png" href="image/9T0A9684_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="x9T0A9769_IMAGE_WINDOW.png" href="image/9T0A9769_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="About_our_Image_Research_NOTES_WINDOW.png" href="image/About_our_Image_Research_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Attention_Window_bus_route.png" href="image/Attention_Window_bus_route.png" media-type="image/png" />
+		<item id="Attention_Window_EXTERNAL_COLLAB.png" href="image/Attention_Window_EXTERNAL_COLLAB.png" media-type="image/png" />
+		<item id="Attention_Window_Figures.png" href="image/Attention_Window_Figures.png" media-type="image/png" />
+		<item id="Attention_Window_Figures1.png" href="image/Attention_Window_Figures1.png" media-type="image/png" />
+		<item id="Attention_Window_Figures_-_me.png" href="image/Attention_Window_Figures_-_me.png" media-type="image/png" />
+		<item id="Attention_Window_Instagram.png" href="image/Attention_Window_Instagram.png" media-type="image/png" />
+		<item id="Attention_Window_Mar_a.png" href="image/Attention_Window_Mar_a.png" media-type="image/png" />
+		<item id="Attention_Window_next.png" href="image/Attention_Window_next.png" media-type="image/png" />
+		<item id="Attention_Window_PINTEREST.png" href="image/Attention_Window_PINTEREST.png" media-type="image/png" />
+		<item id="Attention_Window_PINTEREST_BOARD.png" href="image/Attention_Window_PINTEREST_BOARD.png" media-type="image/png" />
+		<item id="Attention_Window_REELS.png" href="image/Attention_Window_REELS.png" media-type="image/png" />
+		<item id="Attention_Window_THE_REST.png" href="image/Attention_Window_THE_REST.png" media-type="image/png" />
+		<item id="Background.png" href="image/Background.png" media-type="image/png" />
+		<item id="Battery_Window.png" href="image/Battery_Window.png" media-type="image/png" />
+		<item id="Battery_Window1.png" href="image/Battery_Window1.png" media-type="image/png" />
+		<item id="Battery_Window_-.png" href="image/Battery_Window_%21.png" media-type="image/png" />
+		<item id="Battery_Window_-SMILEY.png" href="image/Battery_Window_%21SMILEY.png" media-type="image/png" />
+		<item id="Be_Playful-_NOTES_WINDOW.png" href="image/Be_Playful%21_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Brainstorming_.PNG_2_Window.png" href="image/Brainstorming_.PNG_2_Window.png" media-type="image/png" />
+		<item id="Brainstorming_.PNG_Window.png" href="image/Brainstorming_.PNG_Window.png" media-type="image/png" />
+		<item id="Brainstorming_PRESSED.png" href="image/Brainstorming_PRESSED.png" media-type="image/png" />
+		<item id="Bus_Product_Photoshoot_FOLDER_WINDOW.png" href="image/Bus_Product_Photoshoot_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Bus_Product_Photoshoot_PRESSED.png" href="image/Bus_Product_Photoshoot_PRESSED.png" media-type="image/png" />
+		<item id="Bus_Product_Photoshoot_PRESSED1.png" href="image/Bus_Product_Photoshoot_PRESSED1.png" media-type="image/png" />
+		<item id="Bus_Product_Shoot_Treatment_PDF_WINDOW.png" href="image/Bus_Product_Shoot_Treatment_PDF_WINDOW.png" media-type="image/png" />
+		<item id="Caption_IMAGE_WINDOW.png" href="image/Caption_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Close_Button_Pressed.png" href="image/Close_Button_Pressed.png" media-type="image/png" />
+		<item id="Close_Button_Pressed1.png" href="image/Close_Button_Pressed1.png" media-type="image/png" />
+		<item id="Close_Button_red.png" href="image/Close_Button_red.png" media-type="image/png" />
+		<item id="Collaboration_folder_pressed.png" href="image/Collaboration_folder_pressed.png" media-type="image/png" />
+		<item id="Collaboration_folder_pressed1.png" href="image/Collaboration_folder_pressed1.png" media-type="image/png" />
+		<item id="Collaboration_folder_red.png" href="image/Collaboration_folder_red.png" media-type="image/png" />
+		<item id="Collaboration_full_screen_folder.png" href="image/Collaboration_full_screen_folder.png" media-type="image/png" />
+		<item id="Collaboration_pressed_tab.png" href="image/Collaboration_pressed_tab.png" media-type="image/png" />
+		<item id="combo_10_PRESSED.png" href="image/combo_10_PRESSED.png" media-type="image/png" />
+		<item id="combo_10_PRESSED1.png" href="image/combo_10_PRESSED1.png" media-type="image/png" />
+		<item id="combo_12.1__PRESSED.png" href="image/combo_12.1__PRESSED.png" media-type="image/png" />
+		<item id="combo_12.1__PRESSED1.png" href="image/combo_12.1__PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_28.02.2024_Presentation_Feedback_PRESSED.png" href="image/COMBO_28.02.2024_Presentation_Feedback_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_28.02.2024_Presentation_Feedback_PRESSED1.png" href="image/COMBO_28.02.2024_Presentation_Feedback_PRESSED1.png" media-type="image/png" />
+		<item id="combo_9T0A9684_PRESSED.png" href="image/combo_9T0A9684_PRESSED.png" media-type="image/png" />
+		<item id="combo_9T0A9684_PRESSED1.png" href="image/combo_9T0A9684_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_-dizziaklondon_PRESSED.png" href="image/COMBO_%40dizziaklondon_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_-dizziaklondon_PRESSED1.png" href="image/COMBO_%40dizziaklondon_PRESSED1.png" media-type="image/png" />
+		<item id="combo_About_our_Image_Research_PRESSED.png" href="image/combo_About_our_Image_Research_PRESSED.png" media-type="image/png" />
+		<item id="combo_About_our_Image_Research_PRESSED1.png" href="image/combo_About_our_Image_Research_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Be_Playful-_PRESSED.png" href="image/COMBO_Be_Playful%21_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Caption_PRESSED.png" href="image/COMBO_Caption_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Caption_PRESSED1.png" href="image/COMBO_Caption_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_DIZZIAK_-_Ultra-_PRESSED.png" href="image/COMBO_DIZZIAK_-_Ultra-_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_DIZZIAK_Film_Treatment_PRESSED.png" href="image/COMBO_DIZZIAK_Film_Treatment_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_DIZZIAK_Film_Treatment_PRESSED1.png" href="image/COMBO_DIZZIAK_Film_Treatment_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_DSC_0229_PRESSED.png" href="image/COMBO_DSC_0229_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_DSC_0229_PRESSED1.png" href="image/COMBO_DSC_0229_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_First_Clear_Ideas__PRESSED.png" href="image/COMBO_First_Clear_Ideas__PRESSED.png" media-type="image/png" />
+		<item id="COMBO_IMG_20240220_180733_PRESSED.png" href="image/COMBO_IMG_20240220_180733_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_IMG_20240220_180733_PRESSED1.png" href="image/COMBO_IMG_20240220_180733_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_IMG_7670_PRESSED.png" href="image/COMBO_IMG_7670_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_IMG_7670_PRESSED1.png" href="image/COMBO_IMG_7670_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Instagram_Grid_pressed.png" href="image/COMBO_Instagram_Grid_pressed.png" media-type="image/png" />
+		<item id="COMBO_Installation_ideation_PRESSED.png" href="image/COMBO_Installation_ideation_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Installation_ideation_PRESSED1.png" href="image/COMBO_Installation_ideation_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Interesting_Ideas_from_the_Interview_PRESSED.png" href="image/COMBO_Interesting_Ideas_from_the_Interview_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_LOVERBOY._Charles_Jeffrey_Takes_New_York-s_Underground_Queer_Club_Scene_-_i-D_PRESSED.png" href="image/COMBO_LOVERBOY._Charles_Jeffrey_Takes_New_York%27s_Underground_Queer_Club_Scene_-_i-D_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_LOVERBOY._Charles_Jeffrey_Takes_New_York-s_Underground_Queer_Club_Scene_-_i-D_PRESSED1.png" href="image/COMBO_LOVERBOY._Charles_Jeffrey_Takes_New_York%27s_Underground_Queer_Club_Scene_-_i-D_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Meeting_Minutes_02.02.2024_PRESSED.png" href="image/COMBO_Meeting_Minutes_02.02.2024_PRESSED.png" media-type="image/png" />
+		<item id="combo_My_-not_favourite-_Role_PRESSED.png" href="image/combo_My_%28not_favourite%29_Role_PRESSED.png" media-type="image/png" />
+		<item id="combo_My_-not_favourite-_Role_PRESSED1.png" href="image/combo_My_%28not_favourite%29_Role_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Organisation_Skills_PRESSED.png" href="image/COMBO_Organisation_Skills_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Organisation_Skills_PRESSED1.png" href="image/COMBO_Organisation_Skills_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Pro-Capture_One_0375_1_PRESSED.png" href="image/COMBO_Pro-Capture_One_0375_1_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Pro-Capture_One_0375_1_PRESSED1.png" href="image/COMBO_Pro-Capture_One_0375_1_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Production_Learning_PRESSED.png" href="image/COMBO_Production_Learning_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Production_Learning_PRESSED1.png" href="image/COMBO_Production_Learning_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Short_List_PRESSED.png" href="image/COMBO_Short_List_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Short_List_PRESSED1.png" href="image/COMBO_Short_List_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Sketch_Exhibition_Plan_PRESSED.png" href="image/COMBO_Sketch_Exhibition_Plan_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Sketch_Exhibition_Plan_PRESSED1.png" href="image/COMBO_Sketch_Exhibition_Plan_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Sometimes_Preparation_is_Overrated_PRESSED.png" href="image/COMBO_Sometimes_Preparation_is_Overrated_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Structure_for_the_Storyboard__PRESSED.png" href="image/COMBO_Structure_for_the_Storyboard__PRESSED.png" media-type="image/png" />
+		<item id="COMBO_THE_ACTUAL_EXHIBITION-_-03-04-05.02.2024-_PRESSED.png" href="image/COMBO_THE_ACTUAL_EXHIBITION%21_%2803-04-05.02.2024%29_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_THE_ACTUAL_EXHIBITION-_-03-04-05.02.2024-_PRESSED1.png" href="image/COMBO_THE_ACTUAL_EXHIBITION%21_%2803-04-05.02.2024%29_PRESSED1.png" media-type="image/png" />
+		<item id="combo_The_Shoot_Experience_and_First_Impressions_PRESSED.png" href="image/combo_The_Shoot_Experience_and_First_Impressions_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Thinking_in_the_Making_PRESSED.png" href="image/COMBO_Thinking_in_the_Making_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Thinking_in_the_Making_PRESSED1.png" href="image/COMBO_Thinking_in_the_Making_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Visiting_Tea2You_PRESSED.png" href="image/COMBO_Visiting_Tea2You_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Visiting_Tea2You_PRESSED1.png" href="image/COMBO_Visiting_Tea2You_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Wall_Diagram_Sketch_PRESSED.png" href="image/COMBO_Wall_Diagram_Sketch_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Wall_Diagram_Sketch_PRESSED1.png" href="image/COMBO_Wall_Diagram_Sketch_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_WHATSAPP_PRESSED.png" href="image/COMBO_WHATSAPP_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_WHATSAPP_PRESSED_2.png" href="image/COMBO_WHATSAPP_PRESSED_2.png" media-type="image/png" />
+		<item id="COMBO_why_Why_WHY_PRESSED.png" href="image/COMBO_why_Why_WHY_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_WIP_Review_-26.02.2024-_Presentation_Feedback_PRESSED.png" href="image/COMBO_WIP_Review_%2826.02.2024%29_Presentation_Feedback_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Workshop_Notes_PRESSED.png" href="image/COMBO_Workshop_Notes_PRESSED.png" media-type="image/png" />
+		<item id="COMBO_Workshop_Notes_PRESSED1.png" href="image/COMBO_Workshop_Notes_PRESSED1.png" media-type="image/png" />
+		<item id="COMBO_Workshop_Notes_PRESSED_-2-.png" href="image/COMBO_Workshop_Notes_PRESSED_%282%29.png" media-type="image/png" />
+		<item id="Credits_PDF_WINDOW_1.png" href="image/Credits_PDF_WINDOW_1.png" media-type="image/png" />
+		<item id="Credits_PDF_WINDOW_2.png" href="image/Credits_PDF_WINDOW_2.png" media-type="image/png" />
+		<item id="Credits_PDF_WINDOW_3.png" href="image/Credits_PDF_WINDOW_3.png" media-type="image/png" />
+		<item id="Credits_PRESSED.png" href="image/Credits_PRESSED.png" media-type="image/png" />
+		<item id="cursed_windows_95.png" href="image/cursed_windows_95.png" media-type="image/png" />
+		<item id="Desktop_glitch.png" href="image/Desktop_glitch.png" media-type="image/png" />
+		<item id="DIZZIAK_Assets_.XLSX_EXCEL_WINDOW.png" href="image/DIZZIAK_Assets_.XLSX_EXCEL_WINDOW.png" media-type="image/png" />
+		<item id="DIZZIAK_Film_Treatment_PDF_WINDOW.png" href="image/DIZZIAK_Film_Treatment_PDF_WINDOW.png" media-type="image/png" />
+		<item id="DIZZIAK_FOLDER_WINDOW.png" href="image/DIZZIAK_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="DIZZIAK_FOLDER_WINDOW1.png" href="image/DIZZIAK_FOLDER_WINDOW1.png" media-type="image/png" />
+		<item id="DIZZIAK_PRESSED.png" href="image/DIZZIAK_PRESSED.png" media-type="image/png" />
+		<item id="DIZZIAK_PRESSED1.png" href="image/DIZZIAK_PRESSED1.png" media-type="image/png" />
+		<item id="DIZZIAK_PRESSED2.png" href="image/DIZZIAK_PRESSED2.png" media-type="image/png" />
+		<item id="Dizziak_Short_Film_FOLDER_WINDOW.png" href="image/Dizziak_Short_Film_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Dizziak_Short_Film_PRESSED.png" href="image/Dizziak_Short_Film_PRESSED.png" media-type="image/png" />
+		<item id="DIZZIAK_STORYBOARD_FOLDER_WINDOW.png" href="image/DIZZIAK_STORYBOARD_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="DIZZIAK_TB_NP.png" href="image/DIZZIAK_TB_NP.png" media-type="image/png" />
+		<item id="DIZZIAK_TB_P.png" href="image/DIZZIAK_TB_P.png" media-type="image/png" />
+		<item id="DIZZIAK_TB_P1.png" href="image/DIZZIAK_TB_P1.png" media-type="image/png" />
+		<item id="DSC05038_IMAGE_WINDOW.png" href="image/DSC05038_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="DSC05290_IMAGE_WINDOW.png" href="image/DSC05290_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="DSC_0043_IMAGE_WINDOW.png" href="image/DSC_0043_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="DSC_0098_IMAGE_WINDOW.png" href="image/DSC_0098_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="DSC_0229_IMAGE_WINDOW.png" href="image/DSC_0229_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="D_Final_Outcome_FOLDER_WINDOW.png" href="image/D_Final_Outcome_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="D_Ideation_FOLDER_WINDOW.png" href="image/D_Ideation_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="D_PROCESS_FOLDER_WINDOW.png" href="image/D_PROCESS_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="D_Production_FOLDER_WINDOW.png" href="image/D_Production_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="D_Research_FOLDER_WINDOW.png" href="image/D_Research_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="EXHIBITION_PIECE_IMAGE_WINDOW.png" href="image/EXHIBITION_PIECE_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="EXIBITION_PIECE_PRESSED.png" href="image/EXIBITION_PIECE_PRESSED.png" media-type="image/png" />
+		<item id="External_Collaborators_NOTES_WINDOW.png" href="image/External_Collaborators_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="External_Research_Summary_.PDF_PRESSED.png" href="image/External_Research_Summary_.PDF_PRESSED.png" media-type="image/png" />
+		<item id="External_Research_Summary_.PDF_WINDOW.png" href="image/External_Research_Summary_.PDF_WINDOW.png" media-type="image/png" />
+		<item id="Final_Outcome_FOLDER_WINDOW.png" href="image/Final_Outcome_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Final_Outcome_PRESSED.png" href="image/Final_Outcome_PRESSED.png" media-type="image/png" />
+		<item id="Final_Outcome_PRESSED1.png" href="image/Final_Outcome_PRESSED1.png" media-type="image/png" />
+		<item id="Final_Outcome_PRESSED2.png" href="image/Final_Outcome_PRESSED2.png" media-type="image/png" />
+		<item id="Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW.png" href="image/Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW.png" media-type="image/png" />
+		<item id="Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW_2.png" href="image/Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW_2.png" media-type="image/png" />
+		<item id="Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW_3.png" href="image/Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW_3.png" media-type="image/png" />
+		<item id="Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW_4.png" href="image/Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW_4.png" media-type="image/png" />
+		<item id="Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW_5.png" href="image/Final_Storyboard_-_Dizziak_Short_Film_PDF_WINDOW_5.png" media-type="image/png" />
+		<item id="Final_Storyboard_-_Dizziak_Short_Film_PRESSED.png" href="image/Final_Storyboard_-_Dizziak_Short_Film_PRESSED.png" media-type="image/png" />
+		<item id="First_Clear_Ideas_NOTES_WINDOW.png" href="image/First_Clear_Ideas_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="First_ideas_notes_window.png" href="image/First_ideas_notes_window.png" media-type="image/png" />
+		<item id="First_ideas_PRESSED_COMBO.png" href="image/First_ideas_PRESSED_COMBO.png" media-type="image/png" />
+		<item id="First_impressi..._tb_p.png" href="image/First_impressi..._tb_p.png" media-type="image/png" />
+		<item id="First_Installation_ideas_PNG_WINDOW.png" href="image/First_Installation_ideas_PNG_WINDOW.png" media-type="image/png" />
+		<item id="First_Personal_Impressions_NOTES_WINDOW.png" href="image/First_Personal_Impressions_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="First_Tutorial_Presentation_-29.01.2024-_PDF_WINDOW.png" href="image/First_Tutorial_Presentation_%2829.01.2024%29_PDF_WINDOW.png" media-type="image/png" />
+		<item id="GO_DOWN_PRESSED_BUTTON.png" href="image/GO_DOWN_PRESSED_BUTTON.png" media-type="image/png" />
+		<item id="GO_DOWN_PRESSED_BUTTON1.png" href="image/GO_DOWN_PRESSED_BUTTON1.png" media-type="image/png" />
+		<item id="GO_DOWN_PRESSED_BUTTON2.png" href="image/GO_DOWN_PRESSED_BUTTON2.png" media-type="image/png" />
+		<item id="GO_DOWN_PRESSED_BUTTON3.png" href="image/GO_DOWN_PRESSED_BUTTON3.png" media-type="image/png" />
+		<item id="GO_DOWN_PRESSED_BUTTON4.png" href="image/GO_DOWN_PRESSED_BUTTON4.png" media-type="image/png" />
+		<item id="GO_RIGHT_PRESSED_BUTTON.png" href="image/GO_RIGHT_PRESSED_BUTTON.png" media-type="image/png" />
+		<item id="GO_RIGHT_PRESSED_BUTTON1.png" href="image/GO_RIGHT_PRESSED_BUTTON1.png" media-type="image/png" />
+		<item id="GO_RIGHT_PRESSED_BUTTON2.png" href="image/GO_RIGHT_PRESSED_BUTTON2.png" media-type="image/png" />
+		<item id="GO_RIGHT_PRESSED_BUTTON3.png" href="image/GO_RIGHT_PRESSED_BUTTON3.png" media-type="image/png" />
+		<item id="Grid_Design_NOTES_WINDOW.png" href="image/Grid_Design_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Hornimans_FOLDER_PRESSED.png" href="image/Hornimans_FOLDER_PRESSED.png" media-type="image/png" />
+		<item id="Hornimans_FOLDER_PRESSED1.png" href="image/Hornimans_FOLDER_PRESSED1.png" media-type="image/png" />
+		<item id="Hornimans_Full_Screen_FOLDER.png" href="image/Hornimans_Full_Screen_FOLDER.png" media-type="image/png" />
+		<item id="Hornimans_Notes_-_Paint_2_window.png" href="image/Hornimans_Notes_-_Paint_2_window.png" media-type="image/png" />
+		<item id="Hornimans_Notes_-_Paint_window.png" href="image/Hornimans_Notes_-_Paint_window.png" media-type="image/png" />
+		<item id="Hornimans_notes_MSP_PRESSED.png" href="image/Hornimans_notes_MSP_PRESSED.png" media-type="image/png" />
+		<item id="Ideation_PRESSED.png" href="image/Ideation_PRESSED.png" media-type="image/png" />
+		<item id="Ideation_PRESSED1.png" href="image/Ideation_PRESSED1.png" media-type="image/png" />
+		<item id="Ideation_PRESSED2.png" href="image/Ideation_PRESSED2.png" media-type="image/png" />
+		<item id="Ideation_PRESSED3.png" href="image/Ideation_PRESSED3.png" media-type="image/png" />
+		<item id="Image_Research_FOLDER_WINDOW.png" href="image/Image_Research_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="IMG-20240128-WA0062_IMAGE_WINDOW.png" href="image/IMG-20240128-WA0062_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="IMG-20240128-WA0075_IMAGE_WINDOW.png" href="image/IMG-20240128-WA0075_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="IMG_20240208_120708_IMAGE_WINDOW.png" href="image/IMG_20240208_120708_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="IMG_20240220_180733_IMAGE_WINDOW.png" href="image/IMG_20240220_180733_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="IMG_7379_IMAGE_WINDOW.png" href="image/IMG_7379_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="IMG_7648_IMAGE_WINDOW.png" href="image/IMG_7648_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="IMG_7670_IMAGE_WINDOW.png" href="image/IMG_7670_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="IMG_7684_.PNG_IMAGE_WINDOW.png" href="image/IMG_7684_.PNG_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="IMG_7684_tb_np.png" href="image/IMG_7684_tb_np.png" media-type="image/png" />
+		<item id="IMG_7684_tb_p.png" href="image/IMG_7684_tb_p.png" media-type="image/png" />
+		<item id="Instagram_DIZZIAK_WINDOW.png" href="image/Instagram_DIZZIAK_WINDOW.png" media-type="image/png" />
+		<item id="Instagram_Grid_IMAGE_WINDOW.png" href="image/Instagram_Grid_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Installation_ideation_-_Paint_WINDOW.png" href="image/Installation_ideation_-_Paint_WINDOW.png" media-type="image/png" />
+		<item id="Interesting_Facts_PRESSED.png" href="image/Interesting_Facts_PRESSED.png" media-type="image/png" />
+		<item id="Interesting_Facts_TEXT_WINDOW.png" href="image/Interesting_Facts_TEXT_WINDOW.png" media-type="image/png" />
+		<item id="Interesting_Ideas_from_the_Interview_NOTES_WINDOWS.png" href="image/Interesting_Ideas_from_the_Interview_NOTES_WINDOWS.png" media-type="image/png" />
+		<item id="Internet_Explorer.png" href="image/Internet_Explorer.png" media-type="image/png" />
+		<item id="Interview_Questions_Draft_IMAGE_WINDOW.png" href="image/Interview_Questions_Draft_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Interview_Tea2You_FOLDER_WINDOW.png" href="image/Interview_Tea2You_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Interview_Tea2You_PRESSED.png" href="image/Interview_Tea2You_PRESSED.png" media-type="image/png" />
+		<item id="Interview_Tea2You_PRESSED1.png" href="image/Interview_Tea2You_PRESSED1.png" media-type="image/png" />
+		<item id="jacquemus_-_MONDAY_LIKE-IMAGE_WINDOW.png" href="image/jacquemus_-_MONDAY_LIKE%E2%8F%B0IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="LARGE_MOVING_BAR_.png" href="image/LARGE_MOVING_BAR_.png" media-type="image/png" />
+		<item id="Last_minute_organisation_NOTES_WINDOW.png" href="image/Last_minute_organisation_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="LOVERBOY._Charles_Jeffrey_Takes_New_York-s_Underground_Queer_Club_Scene_-_i-D_IMAGE_WINDOW.png" href="image/LOVERBOY._Charles_Jeffrey_Takes_New_York%27s_Underground_Queer_Club_Scene_-_i-D_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="MADAD_x_Southwark_Hertiage_Making_Southwark_IMAGE_WINDOW.png" href="image/MADAD_x_Southwark_Hertiage_Making_Southwark_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Materials_Hunting_FOLDER_WINDOW.png" href="image/Materials_Hunting_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Materials_Hunting_PRESSED.png" href="image/Materials_Hunting_PRESSED.png" media-type="image/png" />
+		<item id="Materials_Hunting_PRESSED1.png" href="image/Materials_Hunting_PRESSED1.png" media-type="image/png" />
+		<item id="Meeting_Minutes_02.02.2024_PDF_WINDOW.png" href="image/Meeting_Minutes_02.02.2024_PDF_WINDOW.png" media-type="image/png" />
+		<item id="Meeting_Minutes_30.01.2024_PDF_WINDOW.png" href="image/Meeting_Minutes_30.01.2024_PDF_WINDOW.png" media-type="image/png" />
+		<item id="miini_bus_product_tb_np.png" href="image/miini_bus_product_tb_np.png" media-type="image/png" />
+		<item id="miini_bus_product_tb_np1.png" href="image/miini_bus_product_tb_np1.png" media-type="image/png" />
+		<item id="miini_bus_product_tb_np2.png" href="image/miini_bus_product_tb_np2.png" media-type="image/png" />
+		<item id="mini_03._Collab..._nonpr.png" href="image/mini_03._Collab..._nonpr.png" media-type="image/png" />
+		<item id="mini_03._Collab..._nonpr1.png" href="image/mini_03._Collab..._nonpr1.png" media-type="image/png" />
+		<item id="mini_10.1_tb_np-1.png" href="image/mini_10.1_tb_np-1.png" media-type="image/png" />
+		<item id="mini_10.1_tb_np.png" href="image/mini_10.1_tb_np.png" media-type="image/png" />
+		<item id="mini_12.1_tb_np.png" href="image/mini_12.1_tb_np.png" media-type="image/png" />
+		<item id="mini_12.1_tb_p.png" href="image/mini_12.1_tb_p.png" media-type="image/png" />
+		<item id="mini_12_tb_np-1.png" href="image/mini_12_tb_np-1.png" media-type="image/png" />
+		<item id="mini_12_tb_np.png" href="image/mini_12_tb_np.png" media-type="image/png" />
+		<item id="mini_15.1_tb_p.png" href="image/mini_15.1_tb_p.png" media-type="image/png" />
+		<item id="mini_28.02.2024p_tb_np.png" href="image/mini_28.02.2024p_tb_np.png" media-type="image/png" />
+		<item id="mini_28.02.2024p_tb_p.png" href="image/mini_28.02.2024p_tb_p.png" media-type="image/png" />
+		<item id="mini_2_tb_p.png" href="image/mini_2_tb_p.png" media-type="image/png" />
+		<item id="mini_5.2_tb_np.png" href="image/mini_5.2_tb_np.png" media-type="image/png" />
+		<item id="mini_5.2_tb_p.png" href="image/mini_5.2_tb_p.png" media-type="image/png" />
+		<item id="mini_9t0a9_tb_np.png" href="image/mini_9t0a9_tb_np.png" media-type="image/png" />
+		<item id="mini_9t0a9_tb_p.png" href="image/mini_9t0a9_tb_p.png" media-type="image/png" />
+		<item id="mini_about_imre_tb_p.png" href="image/mini_about_imre_tb_p.png" media-type="image/png" />
+		<item id="mini_actual_exh_tb_p.png" href="image/mini_actual_exh_tb_p.png" media-type="image/png" />
+		<item id="mini_be_playful_tb_p.png" href="image/mini_be_playful_tb_p.png" media-type="image/png" />
+		<item id="mini_brainstorming_task_bar_pressed.png" href="image/mini_brainstorming_task_bar_pressed.png" media-type="image/png" />
+		<item id="mini_bus_product_tb_p.png" href="image/mini_bus_product_tb_p.png" media-type="image/png" />
+		<item id="mini_bus_product_tb_p1.png" href="image/mini_bus_product_tb_p1.png" media-type="image/png" />
+		<item id="mini_bus_prod_t_tb_np.png" href="image/mini_bus_prod_t_tb_np.png" media-type="image/png" />
+		<item id="mini_bus_prod_t_tb_p.png" href="image/mini_bus_prod_t_tb_p.png" media-type="image/png" />
+		<item id="mini_caption_tb_p.png" href="image/mini_caption_tb_p.png" media-type="image/png" />
+		<item id="mini_Collaborat..._nonpres.png" href="image/mini_Collaborat..._nonpres.png" media-type="image/png" />
+		<item id="mini_credits_tb_p.png" href="image/mini_credits_tb_p.png" media-type="image/png" />
+		<item id="mini_Development_idea..._task_bar_p.png" href="image/mini_Development_idea..._task_bar_p.png" media-type="image/png" />
+		<item id="mini_diagram_im_tb_np.png" href="image/mini_diagram_im_tb_np.png" media-type="image/png" />
+		<item id="mini_diagram_im_tb_p.png" href="image/mini_diagram_im_tb_p.png" media-type="image/png" />
+		<item id="mini_dizziak_planner_tb_np.png" href="image/mini_dizziak_planner_tb_np.png" media-type="image/png" />
+		<item id="mini_dizziak_planner_tb_p.png" href="image/mini_dizziak_planner_tb_p.png" media-type="image/png" />
+		<item id="mini_dizziak_sf_bt_np.png" href="image/mini_dizziak_sf_bt_np.png" media-type="image/png" />
+		<item id="mini_dizziak_sf_bt_np1.png" href="image/mini_dizziak_sf_bt_np1.png" media-type="image/png" />
+		<item id="mini_dizziak_sf_bt_np2.png" href="image/mini_dizziak_sf_bt_np2.png" media-type="image/png" />
+		<item id="mini_dizziak_sf_bt_p.png" href="image/mini_dizziak_sf_bt_p.png" media-type="image/png" />
+		<item id="mini_DIZZIAK_tb_np.png" href="image/mini_DIZZIAK_tb_np.png" media-type="image/png" />
+		<item id="mini_DIZZIAK_tb_np1.png" href="image/mini_DIZZIAK_tb_np1.png" media-type="image/png" />
+		<item id="mini_DIZZIAK_tb_p.png" href="image/mini_DIZZIAK_tb_p.png" media-type="image/png" />
+		<item id="mini_dsc_00_tb_np.png" href="image/mini_dsc_00_tb_np.png" media-type="image/png" />
+		<item id="mini_dsc_00_tb_p.png" href="image/mini_dsc_00_tb_p.png" media-type="image/png" />
+		<item id="mini_d_treatment_tb_np.png" href="image/mini_d_treatment_tb_np.png" media-type="image/png" />
+		<item id="mini_d_treatment_tb_p.png" href="image/mini_d_treatment_tb_p.png" media-type="image/png" />
+		<item id="MINI_EXHIBITION_PIECE_TASK_BAR_P.png" href="image/MINI_EXHIBITION_PIECE_TASK_BAR_P.png" media-type="image/png" />
+		<item id="mini_external_col_tb_p.png" href="image/mini_external_col_tb_p.png" media-type="image/png" />
+		<item id="mini_external_research_task_bar_p.png" href="image/mini_external_research_task_bar_p.png" media-type="image/png" />
+		<item id="mini_fav_workshop_tb_p.png" href="image/mini_fav_workshop_tb_p.png" media-type="image/png" />
+		<item id="mini_final_outcome_tb_np.png" href="image/mini_final_outcome_tb_np.png" media-type="image/png" />
+		<item id="mini_final_outcome_tb_np1.png" href="image/mini_final_outcome_tb_np1.png" media-type="image/png" />
+		<item id="mini_final_outcome_tb_np2.png" href="image/mini_final_outcome_tb_np2.png" media-type="image/png" />
+		<item id="mini_final_outcome_tb_p.png" href="image/mini_final_outcome_tb_p.png" media-type="image/png" />
+		<item id="mini_final_storyb_tb_p.png" href="image/mini_final_storyb_tb_p.png" media-type="image/png" />
+		<item id="mini_first_ideas_task_bar_pressed.png" href="image/mini_first_ideas_task_bar_pressed.png" media-type="image/png" />
+		<item id="mini_First_Intallation_task_bar_np.png" href="image/mini_First_Intallation_task_bar_np.png" media-type="image/png" />
+		<item id="mini_First_Intallation_task_bar_p.png" href="image/mini_First_Intallation_task_bar_p.png" media-type="image/png" />
+		<item id="mini_fist_clear_i_tb_p.png" href="image/mini_fist_clear_i_tb_p.png" media-type="image/png" />
+		<item id="mini_fist_tutorial_tb_np.png" href="image/mini_fist_tutorial_tb_np.png" media-type="image/png" />
+		<item id="mini_fist_tutorial_tb_p.png" href="image/mini_fist_tutorial_tb_p.png" media-type="image/png" />
+		<item id="mini_grid_design_tb_p.png" href="image/mini_grid_design_tb_p.png" media-type="image/png" />
+		<item id="mini_hornimans_exh_task_bar_np.png" href="image/mini_hornimans_exh_task_bar_np.png" media-type="image/png" />
+		<item id="mini_hornimans_exh_task_bar_p.png" href="image/mini_hornimans_exh_task_bar_p.png" media-type="image/png" />
+		<item id="mini_hornimans_notes_task_bar_p.png" href="image/mini_hornimans_notes_task_bar_p.png" media-type="image/png" />
+		<item id="mini_ideation_bar_nonpressed.png" href="image/mini_ideation_bar_nonpressed.png" media-type="image/png" />
+		<item id="mini_Ideation_task_bar_np.png" href="image/mini_Ideation_task_bar_np.png" media-type="image/png" />
+		<item id="MINI_IDEATION_TASK_BAR_PRESSED.png" href="image/MINI_IDEATION_TASK_BAR_PRESSED.png" media-type="image/png" />
+		<item id="MINI_IDEATION_TASK_BAR_PRESSED1.png" href="image/MINI_IDEATION_TASK_BAR_PRESSED1.png" media-type="image/png" />
+		<item id="mini_image_research_tb_np.png" href="image/mini_image_research_tb_np.png" media-type="image/png" />
+		<item id="mini_image_research_tb_np1.png" href="image/mini_image_research_tb_np1.png" media-type="image/png" />
+		<item id="mini_image_research_tb_p.png" href="image/mini_image_research_tb_p.png" media-type="image/png" />
+		<item id="mini_img-2024_tb_np.png" href="image/mini_img-2024_tb_np.png" media-type="image/png" />
+		<item id="mini_img-2024_tb_p.png" href="image/mini_img-2024_tb_p.png" media-type="image/png" />
+		<item id="mini_IMG_7379_tb_np.png" href="image/mini_IMG_7379_tb_np.png" media-type="image/png" />
+		<item id="mini_IMG_7379_tb_p.png" href="image/mini_IMG_7379_tb_p.png" media-type="image/png" />
+		<item id="mini_IMG_7648_tb_np.png" href="image/mini_IMG_7648_tb_np.png" media-type="image/png" />
+		<item id="mini_IMG_7648_tb_p.png" href="image/mini_IMG_7648_tb_p.png" media-type="image/png" />
+		<item id="mini_IMG_7670_tb_np.png" href="image/mini_IMG_7670_tb_np.png" media-type="image/png" />
+		<item id="mini_IMG_7670_tb_p.png" href="image/mini_IMG_7670_tb_p.png" media-type="image/png" />
+		<item id="mini_instagram_tb_np.png" href="image/mini_instagram_tb_np.png" media-type="image/png" />
+		<item id="mini_instagram_tb_p.png" href="image/mini_instagram_tb_p.png" media-type="image/png" />
+		<item id="mini_Installation..._task_bar_np.png" href="image/mini_Installation..._task_bar_np.png" media-type="image/png" />
+		<item id="mini_Installation..._task_bar_p.png" href="image/mini_Installation..._task_bar_p.png" media-type="image/png" />
+		<item id="mini_insta_frid_tb_p.png" href="image/mini_insta_frid_tb_p.png" media-type="image/png" />
+		<item id="mini_insta_grid_tb_np.png" href="image/mini_insta_grid_tb_np.png" media-type="image/png" />
+		<item id="mini_interesting_i..._tb_p.png" href="image/mini_interesting_i..._tb_p.png" media-type="image/png" />
+		<item id="mini_interview_q_tb_np.png" href="image/mini_interview_q_tb_np.png" media-type="image/png" />
+		<item id="mini_interview_t2y_taskbar_np.png" href="image/mini_interview_t2y_taskbar_np.png" media-type="image/png" />
+		<item id="mini_interview_t2y_taskbar_p.png" href="image/mini_interview_t2y_taskbar_p.png" media-type="image/png" />
+		<item id="mini_intervire_q_tb_p.png" href="image/mini_intervire_q_tb_p.png" media-type="image/png" />
+		<item id="mini_jaquesmus_tb_np.png" href="image/mini_jaquesmus_tb_np.png" media-type="image/png" />
+		<item id="mini_jaquesmus_tb_p.png" href="image/mini_jaquesmus_tb_p.png" media-type="image/png" />
+		<item id="mini_last_min_tb_p.png" href="image/mini_last_min_tb_p.png" media-type="image/png" />
+		<item id="MINI_LAVINIA_IMAGE_TASKBAR_NP.png" href="image/MINI_LAVINIA_IMAGE_TASKBAR_NP.png" media-type="image/png" />
+		<item id="mini_lavinia_image_taskbar_p.png" href="image/mini_lavinia_image_taskbar_p.png" media-type="image/png" />
+		<item id="mini_loverboy_tb_p.png" href="image/mini_loverboy_tb_p.png" media-type="image/png" />
+		<item id="mini_MADAD_x_tb_np.png" href="image/mini_MADAD_x_tb_np.png" media-type="image/png" />
+		<item id="mini_MADAD_x_tb_p.png" href="image/mini_MADAD_x_tb_p.png" media-type="image/png" />
+		<item id="mini_materials_h_tb_np.png" href="image/mini_materials_h_tb_np.png" media-type="image/png" />
+		<item id="mini_materials_h_tb_p.png" href="image/mini_materials_h_tb_p.png" media-type="image/png" />
+		<item id="mini_meetingm_tb_p.png" href="image/mini_meetingm_tb_p.png" media-type="image/png" />
+		<item id="mini_meeting_m_1_tb_np.png" href="image/mini_meeting_m_1_tb_np.png" media-type="image/png" />
+		<item id="mini_meeting_m_1_tb_p.png" href="image/mini_meeting_m_1_tb_p.png" media-type="image/png" />
+		<item id="mini_model-p_tb_np.png" href="image/mini_model-p_tb_np.png" media-type="image/png" />
+		<item id="mini_model-p_tb_np1.png" href="image/mini_model-p_tb_np1.png" media-type="image/png" />
+		<item id="mini_model-p_tb_p.png" href="image/mini_model-p_tb_p.png" media-type="image/png" />
+		<item id="mini_moving_images_tb_np.png" href="image/mini_moving_images_tb_np.png" media-type="image/png" />
+		<item id="mini_moving_images_tb_np1.png" href="image/mini_moving_images_tb_np1.png" media-type="image/png" />
+		<item id="mini_moving_images_tb_p.png" href="image/mini_moving_images_tb_p.png" media-type="image/png" />
+		<item id="mini_my_last_cell_brain_tb_p.png" href="image/mini_my_last_cell_brain_tb_p.png" media-type="image/png" />
+		<item id="mini_not_my_fav_tb_p.png" href="image/mini_not_my_fav_tb_p.png" media-type="image/png" />
+		<item id="mini_now_is_all_a_tb_p.png" href="image/mini_now_is_all_a_tb_p.png" media-type="image/png" />
+		<item id="mini_oral_history_bar_task_np.png" href="image/mini_oral_history_bar_task_np.png" media-type="image/png" />
+		<item id="mini_oral_hsitory_bar_task_p.png" href="image/mini_oral_hsitory_bar_task_p.png" media-type="image/png" />
+		<item id="mini_organisation_tn_p.png" href="image/mini_organisation_tn_p.png" media-type="image/png" />
+		<item id="mini_personal_im_tb_np.png" href="image/mini_personal_im_tb_np.png" media-type="image/png" />
+		<item id="mini_personal_im_tb_np1.png" href="image/mini_personal_im_tb_np1.png" media-type="image/png" />
+		<item id="mini_personal_im_tb_p.png" href="image/mini_personal_im_tb_p.png" media-type="image/png" />
+		<item id="mini_personal_le..._raskbar_p.png" href="image/mini_personal_le..._raskbar_p.png" media-type="image/png" />
+		<item id="mini_piece_sketches_task_bar_np.png" href="image/mini_piece_sketches_task_bar_np.png" media-type="image/png" />
+		<item id="mini_piece_sketches_task_bar_np1.png" href="image/mini_piece_sketches_task_bar_np1.png" media-type="image/png" />
+		<item id="mini_piece_sketches_task_bar_p.png" href="image/mini_piece_sketches_task_bar_p.png" media-type="image/png" />
+		<item id="mini_postst_tb_np.png" href="image/mini_postst_tb_np.png" media-type="image/png" />
+		<item id="mini_postst_tb_np1.png" href="image/mini_postst_tb_np1.png" media-type="image/png" />
+		<item id="mini_posts_tb_p.png" href="image/mini_posts_tb_p.png" media-type="image/png" />
+		<item id="mini_presentation_f_tb_np.png" href="image/mini_presentation_f_tb_np.png" media-type="image/png" />
+		<item id="mini_presentation_f_tb_np1.png" href="image/mini_presentation_f_tb_np1.png" media-type="image/png" />
+		<item id="mini_presentation_f_tb_p.png" href="image/mini_presentation_f_tb_p.png" media-type="image/png" />
+		<item id="mini_presenting_client_tb_p.png" href="image/mini_presenting_client_tb_p.png" media-type="image/png" />
+		<item id="mini_pro-capture_tb_np.png" href="image/mini_pro-capture_tb_np.png" media-type="image/png" />
+		<item id="mini_pro-capture_tb_p.png" href="image/mini_pro-capture_tb_p.png" media-type="image/png" />
+		<item id="mini_Process_task_bar_np.png" href="image/mini_Process_task_bar_np.png" media-type="image/png" />
+		<item id="mini_Process_task_bar_np1.png" href="image/mini_Process_task_bar_np1.png" media-type="image/png" />
+		<item id="mini_Process_task_bar_p.png" href="image/mini_Process_task_bar_p.png" media-type="image/png" />
+		<item id="mini_production_l_tb_p.png" href="image/mini_production_l_tb_p.png" media-type="image/png" />
+		<item id="mini_production_tb_np.png" href="image/mini_production_tb_np.png" media-type="image/png" />
+		<item id="mini_production_tb_np1.png" href="image/mini_production_tb_np1.png" media-type="image/png" />
+		<item id="mini_production_tb_p.png" href="image/mini_production_tb_p.png" media-type="image/png" />
+		<item id="mini_raw_material_tb_np.png" href="image/mini_raw_material_tb_np.png" media-type="image/png" />
+		<item id="mini_raw_material_tb_np1.png" href="image/mini_raw_material_tb_np1.png" media-type="image/png" />
+		<item id="mini_raw_material_tb_p.png" href="image/mini_raw_material_tb_p.png" media-type="image/png" />
+		<item id="mini_raw_material_tb_p1.png" href="image/mini_raw_material_tb_p1.png" media-type="image/png" />
+		<item id="mini_raw_material_tb_p2.png" href="image/mini_raw_material_tb_p2.png" media-type="image/png" />
+		<item id="mini_raw_material_tb_p3.png" href="image/mini_raw_material_tb_p3.png" media-type="image/png" />
+		<item id="mini_reels_tb_p.png" href="image/mini_reels_tb_p.png" media-type="image/png" />
+		<item id="mini_references_task_bar_p.png" href="image/mini_references_task_bar_p.png" media-type="image/png" />
+		<item id="mini_reflections_pre_tb_p.png" href="image/mini_reflections_pre_tb_p.png" media-type="image/png" />
+		<item id="mini_reflections_tb_np.png" href="image/mini_reflections_tb_np.png" media-type="image/png" />
+		<item id="mini_research_task_bar_np.png" href="image/mini_research_task_bar_np.png" media-type="image/png" />
+		<item id="mini_research_task_bar_np1.png" href="image/mini_research_task_bar_np1.png" media-type="image/png" />
+		<item id="mini_research_task_bar_np2.png" href="image/mini_research_task_bar_np2.png" media-type="image/png" />
+		<item id="mini_research_task_bar_np3.png" href="image/mini_research_task_bar_np3.png" media-type="image/png" />
+		<item id="mini_research_task_bar_p.png" href="image/mini_research_task_bar_p.png" media-type="image/png" />
+		<item id="mini_riks_ass_tb_p.png" href="image/mini_riks_ass_tb_p.png" media-type="image/png" />
+		<item id="mini_risk_ass_tb_np.png" href="image/mini_risk_ass_tb_np.png" media-type="image/png" />
+		<item id="mini_sahaj_notes_tb_np.png" href="image/mini_sahaj_notes_tb_np.png" media-type="image/png" />
+		<item id="mini_sahaj_notes_tb_np1.png" href="image/mini_sahaj_notes_tb_np1.png" media-type="image/png" />
+		<item id="mini_sahaj_notes_tb_p.png" href="image/mini_sahaj_notes_tb_p.png" media-type="image/png" />
+		<item id="mini_shoot_exp_tb_p.png" href="image/mini_shoot_exp_tb_p.png" media-type="image/png" />
+		<item id="mini_short_list_tb_p.png" href="image/mini_short_list_tb_p.png" media-type="image/png" />
+		<item id="mini_sketch_echibitoon_plan_tb_p.png" href="image/mini_sketch_echibitoon_plan_tb_p.png" media-type="image/png" />
+		<item id="mini_sketch_exhibition_plan_tb_no.png" href="image/mini_sketch_exhibition_plan_tb_no.png" media-type="image/png" />
+		<item id="mini_sometiimes_p_tb_p.png" href="image/mini_sometiimes_p_tb_p.png" media-type="image/png" />
+		<item id="mini_southwark_notes_task_bar_nonpressed.png" href="image/mini_southwark_notes_task_bar_nonpressed.png" media-type="image/png" />
+		<item id="mini_southwark_notes_task_bar_pressed.png" href="image/mini_southwark_notes_task_bar_pressed.png" media-type="image/png" />
+		<item id="MINI_SOUTHWARK_TASK_BAR_NONP.png" href="image/MINI_SOUTHWARK_TASK_BAR_NONP.png" media-type="image/png" />
+		<item id="MINI_SOUTHWARK_TASK_BAR_NONP1.png" href="image/MINI_SOUTHWARK_TASK_BAR_NONP1.png" media-type="image/png" />
+		<item id="MINI_SOUTHWARK_TASK_BAR_NONP2.png" href="image/MINI_SOUTHWARK_TASK_BAR_NONP2.png" media-type="image/png" />
+		<item id="mini_storyboard_bt_p.png" href="image/mini_storyboard_bt_p.png" media-type="image/png" />
+		<item id="mini_storyboard_tb_np.png" href="image/mini_storyboard_tb_np.png" media-type="image/png" />
+		<item id="mini_story_fist_draft_bt_np.png" href="image/mini_story_fist_draft_bt_np.png" media-type="image/png" />
+		<item id="mini_story_fist_draft_bt_p.png" href="image/mini_story_fist_draft_bt_p.png" media-type="image/png" />
+		<item id="mini_structure_stb_tb_p.png" href="image/mini_structure_stb_tb_p.png" media-type="image/png" />
+		<item id="mini_struggles_coll_tb_p.png" href="image/mini_struggles_coll_tb_p.png" media-type="image/png" />
+		<item id="mini_struggle_mat_tb_np.png" href="image/mini_struggle_mat_tb_np.png" media-type="image/png" />
+		<item id="mini_struggle_with_m_tb_p.png" href="image/mini_struggle_with_m_tb_p.png" media-type="image/png" />
+		<item id="mini_studio_prep_tb_np.png" href="image/mini_studio_prep_tb_np.png" media-type="image/png" />
+		<item id="mini_studio_prep_tb_p.png" href="image/mini_studio_prep_tb_p.png" media-type="image/png" />
+		<item id="mini_studio_shoot_tb_np.png" href="image/mini_studio_shoot_tb_np.png" media-type="image/png" />
+		<item id="mini_studio_shoot_tb_p.png" href="image/mini_studio_shoot_tb_p.png" media-type="image/png" />
+		<item id="mini_tea_shops_hunting_task_bar_p.png" href="image/mini_tea_shops_hunting_task_bar_p.png" media-type="image/png" />
+		<item id="mini_the_archives_task_bar_p.png" href="image/mini_the_archives_task_bar_p.png" media-type="image/png" />
+		<item id="mini_thinking_in_tb_p.png" href="image/mini_thinking_in_tb_p.png" media-type="image/png" />
+		<item id="mini_treatment_tb_np.png" href="image/mini_treatment_tb_np.png" media-type="image/png" />
+		<item id="mini_treatment_tb_np1.png" href="image/mini_treatment_tb_np1.png" media-type="image/png" />
+		<item id="mini_treatment_tb_p.png" href="image/mini_treatment_tb_p.png" media-type="image/png" />
+		<item id="mini_tutorial_tb_np.png" href="image/mini_tutorial_tb_np.png" media-type="image/png" />
+		<item id="mini_tutorial_tb_p.png" href="image/mini_tutorial_tb_p.png" media-type="image/png" />
+		<item id="mini_twinings_m_task_bar_np.png" href="image/mini_twinings_m_task_bar_np.png" media-type="image/png" />
+		<item id="mini_twinings_m_task_bar_p.png" href="image/mini_twinings_m_task_bar_p.png" media-type="image/png" />
+		<item id="mini_UAL_tab_nonpresse.png" href="image/mini_UAL_tab_nonpresse.png" media-type="image/png" />
+		<item id="mini_uber_moto_tb_np.png" href="image/mini_uber_moto_tb_np.png" media-type="image/png" />
+		<item id="mini_uber_moto_tb_p.png" href="image/mini_uber_moto_tb_p.png" media-type="image/png" />
+		<item id="mini_understanding_tb_p.png" href="image/mini_understanding_tb_p.png" media-type="image/png" />
+		<item id="mini_visiting_t2y_taskbar_p.png" href="image/mini_visiting_t2y_taskbar_p.png" media-type="image/png" />
+		<item id="mini_visit_to_the_archives_task_bar_np.png" href="image/mini_visit_to_the_archives_task_bar_np.png" media-type="image/png" />
+		<item id="mini_visit_to_the_a_task_bar_p.png" href="image/mini_visit_to_the_a_task_bar_p.png" media-type="image/png" />
+		<item id="mini_wall_diagram_tb_np.png" href="image/mini_wall_diagram_tb_np.png" media-type="image/png" />
+		<item id="mini_wall_diagram_tb_p.png" href="image/mini_wall_diagram_tb_p.png" media-type="image/png" />
+		<item id="mini_wall_tb_np.png" href="image/mini_wall_tb_np.png" media-type="image/png" />
+		<item id="mini_wall_tb_np1.png" href="image/mini_wall_tb_np1.png" media-type="image/png" />
+		<item id="mini_wall_tb_p.png" href="image/mini_wall_tb_p.png" media-type="image/png" />
+		<item id="mini_whatsapp_tb_np.png" href="image/mini_whatsapp_tb_np.png" media-type="image/png" />
+		<item id="mini_whatsapp_tb_p.png" href="image/mini_whatsapp_tb_p.png" media-type="image/png" />
+		<item id="mini_What_does..._press.png" href="image/mini_What_does..._press.png" media-type="image/png" />
+		<item id="mini_when_colll_tb_np.png" href="image/mini_when_colll_tb_np.png" media-type="image/png" />
+		<item id="mini_when_coll_tn_p.png" href="image/mini_when_coll_tn_p.png" media-type="image/png" />
+		<item id="mini_why_tb_p.png" href="image/mini_why_tb_p.png" media-type="image/png" />
+		<item id="mini_wip_rev_fb_np.png" href="image/mini_wip_rev_fb_np.png" media-type="image/png" />
+		<item id="mini_wip_rev_tb_p.png" href="image/mini_wip_rev_tb_p.png" media-type="image/png" />
+		<item id="mini_wokrshop_oh_taskbar_np.png" href="image/mini_wokrshop_oh_taskbar_np.png" media-type="image/png" />
+		<item id="mini_woktshop_oh_taskbar_p.png" href="image/mini_woktshop_oh_taskbar_p.png" media-type="image/png" />
+		<item id="mini_workshops_task_bar_np.png" href="image/mini_workshops_task_bar_np.png" media-type="image/png" />
+		<item id="mini_workshops_task_bar_np1.png" href="image/mini_workshops_task_bar_np1.png" media-type="image/png" />
+		<item id="Model-PRODUCT_PRESSED.png" href="image/Model-PRODUCT_PRESSED.png" media-type="image/png" />
+		<item id="Model-PRODUCT_PRESSED1.png" href="image/Model-PRODUCT_PRESSED1.png" media-type="image/png" />
+		<item id="Model-Product_Studio_Photoshoot_FOLDER_WINDOW.png" href="image/Model-Product_Studio_Photoshoot_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="mono_interesting_facts_task_bar_p.png" href="image/mono_interesting_facts_task_bar_p.png" media-type="image/png" />
+		<item id="MOUSE_ARROW.png" href="image/MOUSE_ARROW.png" media-type="image/png" />
+		<item id="Moving_Image_References_-_Inspiration_PDF_WINDOW_1.png" href="image/Moving_Image_References_-_Inspiration_PDF_WINDOW_1.png" media-type="image/png" />
+		<item id="Moving_Image_References_-_Inspiration_PDF_WINDOW_2.png" href="image/Moving_Image_References_-_Inspiration_PDF_WINDOW_2.png" media-type="image/png" />
+		<item id="My_-not_favourite-_Role_NOTES_WINDOW_1.png" href="image/My_%28not_favourite%29_Role_NOTES_WINDOW_1.png" media-type="image/png" />
+		<item id="My_-not_favourite-_Role_NOTES_WINDOW_2.png" href="image/My_%28not_favourite%29_Role_NOTES_WINDOW_2.png" media-type="image/png" />
+		<item id="My_Computer.png" href="image/My_Computer.png" media-type="image/png" />
+		<item id="My_last_brain_cell_alive_NOTES_WINDOW.png" href="image/My_last_brain_cell_alive_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="next_button.png" href="image/next_button.png" media-type="image/png" />
+		<item id="next_button1.png" href="image/next_button1.png" media-type="image/png" />
+		<item id="next_button2.png" href="image/next_button2.png" media-type="image/png" />
+		<item id="Next_Tip_Button_Pressed.png" href="image/Next_Tip_Button_Pressed.png" media-type="image/png" />
+		<item id="Next_Tip_Button_Pressed1.png" href="image/Next_Tip_Button_Pressed1.png" media-type="image/png" />
+		<item id="Next_Tip_Button_red.png" href="image/Next_Tip_Button_red.png" media-type="image/png" />
+		<item id="Now_is_all_about_the_Client_NOTES_WINDOW_1.png" href="image/Now_is_all_about_the_Client_NOTES_WINDOW_1.png" media-type="image/png" />
+		<item id="Now_is_all_about_the_Client_NOTES_WINDOW_2.png" href="image/Now_is_all_about_the_Client_NOTES_WINDOW_2.png" media-type="image/png" />
+		<item id="ok_button.png" href="image/ok_button.png" media-type="image/png" />
+		<item id="ok_button1.png" href="image/ok_button1.png" media-type="image/png" />
+		<item id="ok_button10.png" href="image/ok_button10.png" media-type="image/png" />
+		<item id="ok_button11.png" href="image/ok_button11.png" media-type="image/png" />
+		<item id="ok_button2.png" href="image/ok_button2.png" media-type="image/png" />
+		<item id="ok_button3.png" href="image/ok_button3.png" media-type="image/png" />
+		<item id="ok_button4.png" href="image/ok_button4.png" media-type="image/png" />
+		<item id="ok_button5.png" href="image/ok_button5.png" media-type="image/png" />
+		<item id="ok_button6.png" href="image/ok_button6.png" media-type="image/png" />
+		<item id="ok_button7.png" href="image/ok_button7.png" media-type="image/png" />
+		<item id="ok_button8.png" href="image/ok_button8.png" media-type="image/png" />
+		<item id="ok_button9.png" href="image/ok_button9.png" media-type="image/png" />
+		<item id="Oral_History_-_Object_Based_Learning_FOLDER_WINDOW.png" href="image/Oral_History_-_Object_Based_Learning_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Oral_History_-_Object_Based_Learning_PRESSED.png" href="image/Oral_History_-_Object_Based_Learning_PRESSED.png" media-type="image/png" />
+		<item id="Organisation_Skills_NOTES_WINDOW.png" href="image/Organisation_Skills_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Paint.png" href="image/Paint.png" media-type="image/png" />
+		<item id="Personal_Image_Collection_PRESSED.png" href="image/Personal_Image_Collection_PRESSED.png" media-type="image/png" />
+		<item id="Personal_Image_Collection_PRESSED1.png" href="image/Personal_Image_Collection_PRESSED1.png" media-type="image/png" />
+		<item id="Personal_Image_Research_D_FOLDER_WINDOW.png" href="image/Personal_Image_Research_D_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Personal_learning_and_inspiration_NOTES_WINDOW.png" href="image/Personal_learning_and_inspiration_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Personal_learning_and_inspiration_treatment_NOTES_WINDOW.png" href="image/Personal_learning_and_inspiration_treatment_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Piece_Sketches_FOLDER_WINDOW.png" href="image/Piece_Sketches_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Piece_Sketches_PRESSED.png" href="image/Piece_Sketches_PRESSED.png" media-type="image/png" />
+		<item id="Posts_FOLDER_WINDOW.png" href="image/Posts_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Posts_PRESSED.png" href="image/Posts_PRESSED.png" media-type="image/png" />
+		<item id="Posts_PRESSED1.png" href="image/Posts_PRESSED1.png" media-type="image/png" />
+		<item id="Presentation_FOLDER_WINDOW.png" href="image/Presentation_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Presentation_PRESSED.png" href="image/Presentation_PRESSED.png" media-type="image/png" />
+		<item id="Presentation_PRESSED1.png" href="image/Presentation_PRESSED1.png" media-type="image/png" />
+		<item id="Presenting_to_the_Client.png" href="image/Presenting_to_the_Client.png" media-type="image/png" />
+		<item id="Presenting_to_the_Client1.png" href="image/Presenting_to_the_Client1.png" media-type="image/png" />
+		<item id="Presenting_to_the_Client_IMAGE_WINDOW.png" href="image/Presenting_to_the_Client_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Pro-Capture_One_0112_1_IMAGE_WINDOW.png" href="image/Pro-Capture_One_0112_1_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Pro-Capture_One_0375_1_IMAGE_WINDOW.png" href="image/Pro-Capture_One_0375_1_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Pro-Capture_One_0514_IMAGE_WINDOW.png" href="image/Pro-Capture_One_0514_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Pro-Capture_One_0609_1_IMAGE_WINDOW.png" href="image/Pro-Capture_One_0609_1_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Process_PRESSED.png" href="image/Process_PRESSED.png" media-type="image/png" />
+		<item id="Process_PRESSED1.png" href="image/Process_PRESSED1.png" media-type="image/png" />
+		<item id="Process_PRESSED2.png" href="image/Process_PRESSED2.png" media-type="image/png" />
+		<item id="Process_PRESSED3.png" href="image/Process_PRESSED3.png" media-type="image/png" />
+		<item id="Production_Learning_NOTES_WINDOW.png" href="image/Production_Learning_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Production_PRESSED.png" href="image/Production_PRESSED.png" media-type="image/png" />
+		<item id="Production_PRESSED1.png" href="image/Production_PRESSED1.png" media-type="image/png" />
+		<item id="Raw_Material_-06.02.2024-_FOLDER_WINDOW.png" href="image/Raw_Material_%2806.02.2024%29_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Raw_Material_-06.02.2024-_PRESSED.png" href="image/Raw_Material_%2806.02.2024%29_PRESSED.png" media-type="image/png" />
+		<item id="Raw_Material_-06.02.2024-_PRESSED1.png" href="image/Raw_Material_%2806.02.2024%29_PRESSED1.png" media-type="image/png" />
+		<item id="Raw_Material_FOLDER_WINDOW.png" href="image/Raw_Material_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Raw_Material_PRESSED.png" href="image/Raw_Material_PRESSED.png" media-type="image/png" />
+		<item id="Raw_Material_PRESSED1.png" href="image/Raw_Material_PRESSED1.png" media-type="image/png" />
+		<item id="Recycle_Bin.png" href="image/Recycle_Bin.png" media-type="image/png" />
+		<item id="Reels_FOLDER_WINDOW.png" href="image/Reels_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Reels_PRESSED.png" href="image/Reels_PRESSED.png" media-type="image/png" />
+		<item id="References_FOLDER_WINDOW.png" href="image/References_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Reflections_about_the_Final_Outcome_NOTES_WINDOW.png" href="image/Reflections_about_the_Final_Outcome_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Reflections_folder_pressed.png" href="image/Reflections_folder_pressed.png" media-type="image/png" />
+		<item id="Reflections_folder_pressed1.png" href="image/Reflections_folder_pressed1.png" media-type="image/png" />
+		<item id="Reflections_FOLDER_WINDOW.png" href="image/Reflections_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Reflections_pre-Exhibition_NOTES_WINDOW.png" href="image/Reflections_pre-Exhibition_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="reflections_tb_p.png" href="image/reflections_tb_p.png" media-type="image/png" />
+		<item id="Risk_Assessment_PDF_WINDOW.png" href="image/Risk_Assessment_PDF_WINDOW.png" media-type="image/png" />
+		<item id="safe_to_turn_off.png" href="image/safe_to_turn_off.png" media-type="image/png" />
+		<item id="Sahaj_Production_Notes_1_PNG_WINDOW.png" href="image/Sahaj_Production_Notes_1_PNG_WINDOW.png" media-type="image/png" />
+		<item id="Sahaj_Production_Notes_2_NOTES_WINDOW.png" href="image/Sahaj_Production_Notes_2_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Sahaj_Production_Notes_3_NOTES_WINDOW.png" href="image/Sahaj_Production_Notes_3_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Sandclock.png" href="image/Sandclock.png" media-type="image/png" />
+		<item id="SCAPE_BUTTON_PRESSED.png" href="image/SCAPE_BUTTON_PRESSED.png" media-type="image/png" />
+		<item id="Screenshot_2024-02-23_190638.png" href="image/Screenshot_2024-02-23_190638.png" media-type="image/png" />
+		<item id="Short_List_PDF_WINDOW_1.png" href="image/Short_List_PDF_WINDOW_1.png" media-type="image/png" />
+		<item id="Short_List_PDF_WINDOW_2.png" href="image/Short_List_PDF_WINDOW_2.png" media-type="image/png" />
+		<item id="Shut_Down_Windows.png" href="image/Shut_Down_Windows.png" media-type="image/png" />
+		<item id="Sketch_Exhibition_Plan_IMAGE_WINDOW.png" href="image/Sketch_Exhibition_Plan_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Sometimes_Preparation_is_Overrated_NOTES_WINDOW.png" href="image/Sometimes_Preparation_is_Overrated_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Southwark_Archives_Introduction_Notes_-_Paint_WINDOW.png" href="image/Southwark_Archives_Introduction_Notes_-_Paint_WINDOW.png" media-type="image/png" />
+		<item id="SOUTHWARK_FULL_SCREEN_FOLDER.png" href="image/SOUTHWARK_FULL_SCREEN_FOLDER.png" media-type="image/png" />
+		<item id="SOUTHWARK_pressed.png" href="image/SOUTHWARK_pressed.png" media-type="image/png" />
+		<item id="SOUTHWARK_TASK_BAR_PRESSED.png" href="image/SOUTHWARK_TASK_BAR_PRESSED.png" media-type="image/png" />
+		<item id="start_button_pressed.png" href="image/start_button_pressed.png" media-type="image/png" />
+		<item id="start_button_pressed1.png" href="image/start_button_pressed1.png" media-type="image/png" />
+		<item id="Storyboard_FOLDER_WINDOW.png" href="image/Storyboard_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="storyboard_mini_pressed.png" href="image/storyboard_mini_pressed.png" media-type="image/png" />
+		<item id="storyboard_mini_pressed1.png" href="image/storyboard_mini_pressed1.png" media-type="image/png" />
+		<item id="Storyboard_PRESSED.png" href="image/Storyboard_PRESSED.png" media-type="image/png" />
+		<item id="Storyboard_PRESSED1.png" href="image/Storyboard_PRESSED1.png" media-type="image/png" />
+		<item id="Story_First_Draft_PDF_WINDOW.png" href="image/Story_First_Draft_PDF_WINDOW.png" media-type="image/png" />
+		<item id="Structure_for_the_Storyboard_NOTES_WINDOW_1.png" href="image/Structure_for_the_Storyboard_NOTES_WINDOW_1.png" media-type="image/png" />
+		<item id="Structure_for_the_Storyboard_NOTES_WINDOW_2.png" href="image/Structure_for_the_Storyboard_NOTES_WINDOW_2.png" media-type="image/png" />
+		<item id="Structure_for_the_Storyboard_NOTES_WINDOW_3.png" href="image/Structure_for_the_Storyboard_NOTES_WINDOW_3.png" media-type="image/png" />
+		<item id="Structure_for_the_Storyboard_NOTES_WINDOW_4.png" href="image/Structure_for_the_Storyboard_NOTES_WINDOW_4.png" media-type="image/png" />
+		<item id="Struggles_collaborating_NOTES_WINDOW.png" href="image/Struggles_collaborating_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Struggles_with_the_materials_NOTES_WINDOW.png" href="image/Struggles_with_the_materials_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Studio_Photoshoot_PREP_IMAGE_WINDOW.png" href="image/Studio_Photoshoot_PREP_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Studio_Shoot_Treatment_PDF_WINDOW.png" href="image/Studio_Shoot_Treatment_PDF_WINDOW.png" media-type="image/png" />
+		<item id="S_IDEATION_FOLDER_WINDOW.png" href="image/S_IDEATION_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="S_PROCESS_FOLDER_PRESSED.png" href="image/S_PROCESS_FOLDER_PRESSED.png" media-type="image/png" />
+		<item id="S_Process_FOLDER_WINDOW.png" href="image/S_Process_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="S_References_.TXT_PRESSED.png" href="image/S_References_.TXT_PRESSED.png" media-type="image/png" />
+		<item id="S_RESEARCH_FOLDER_PRESSED.png" href="image/S_RESEARCH_FOLDER_PRESSED.png" media-type="image/png" />
+		<item id="S_RESEARCH_FOLDER_PRESSED1.png" href="image/S_RESEARCH_FOLDER_PRESSED1.png" media-type="image/png" />
+		<item id="S_RESEARCH_FOLDER_PRESSED2.png" href="image/S_RESEARCH_FOLDER_PRESSED2.png" media-type="image/png" />
+		<item id="S_RESEARCH_FOLDER_PRESSED3.png" href="image/S_RESEARCH_FOLDER_PRESSED3.png" media-type="image/png" />
+		<item id="S_Research_Full_Screen_Folder.png" href="image/S_Research_Full_Screen_Folder.png" media-type="image/png" />
+		<item id="Task_bar.png" href="image/Task_bar.png" media-type="image/png" />
+		<item id="Task_bar_Welcome.png" href="image/Task_bar_Welcome.png" media-type="image/png" />
+		<item id="Tea_Shops_Hunting_.TXT_PRESSED.png" href="image/Tea_Shops_Hunting_.TXT_PRESSED.png" media-type="image/png" />
+		<item id="Tea_Shops_Hunting_.TXT_PRESSED1.png" href="image/Tea_Shops_Hunting_.TXT_PRESSED1.png" media-type="image/png" />
+		<item id="Tea_Shops_Hunting_TEXT_WINDOW.png" href="image/Tea_Shops_Hunting_TEXT_WINDOW.png" media-type="image/png" />
+		<item id="THE_ACTUAL_EXHIBITION-_-03-04-05.02.2024-_NOTES_WINDOW.png" href="image/THE_ACTUAL_EXHIBITION%21_%2803-04-05.02.2024%29_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="The_Archives_NOTES_WINDOW.png" href="image/The_Archives_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="The_Archives_PRESSED.png" href="image/The_Archives_PRESSED.png" media-type="image/png" />
+		<item id="The_Archives_PRESSED1.png" href="image/The_Archives_PRESSED1.png" media-type="image/png" />
+		<item id="The_Class_Fav_Workshop_NOTES_WINDOW.png" href="image/The_Class_Fav_Workshop_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="The_Class_Fav_Workshop_PRESSED.png" href="image/The_Class_Fav_Workshop_PRESSED.png" media-type="image/png" />
+		<item id="The_Class_Fav_Workshop_PRESSED1.png" href="image/The_Class_Fav_Workshop_PRESSED1.png" media-type="image/png" />
+		<item id="The_development_of_the_idea_NOTES_WINDOW.png" href="image/The_development_of_the_idea_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="THE_MOTHERF..._WALL_folder_WINDOW.png" href="image/THE_MOTHERF..._WALL_folder_WINDOW.png" media-type="image/png" />
+		<item id="THE_MOTHERF..._WALL_PRESSED.png" href="image/THE_MOTHERF..._WALL_PRESSED.png" media-type="image/png" />
+		<item id="The_Shoot_Experience_and_First_Impressions_NOTES_WINDOW.png" href="image/The_Shoot_Experience_and_First_Impressions_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Thinking_in_the_Making_NOTES_WINDOW.png" href="image/Thinking_in_the_Making_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Treatment_FOLDER_WINDOW.png" href="image/Treatment_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Treatment_PRESSED.png" href="image/Treatment_PRESSED.png" media-type="image/png" />
+		<item id="Treatment_PRESSED1.png" href="image/Treatment_PRESSED1.png" media-type="image/png" />
+		<item id="Tutorial_-14.02.2024--_Kalina-s_Feedback_PDF_WINDOW_1.png" href="image/Tutorial_%2814.02.2024%2C%29_Kalina%27s_Feedback_PDF_WINDOW_1.png" media-type="image/png" />
+		<item id="Tutorial_-14.02.2024--_Kalina-s_Feedback_PDF_WINDOW_2.png" href="image/Tutorial_%2814.02.2024%2C%29_Kalina%27s_Feedback_PDF_WINDOW_2.png" media-type="image/png" />
+		<item id="Tutorial_-14.02.2024--_Kalina-s_Feedback_PDF_WINDOW_3.png" href="image/Tutorial_%2814.02.2024%2C%29_Kalina%27s_Feedback_PDF_WINDOW_3.png" media-type="image/png" />
+		<item id="Tutorial_-21.02.2024-_Ryan-s_Feedback_PDF_WINDOW.png" href="image/Tutorial_%2821.02.2024%29_Ryan%27s_Feedback_PDF_WINDOW.png" media-type="image/png" />
+		<item id="Twinings_Museum_FOLDER_PRESSED.png" href="image/Twinings_Museum_FOLDER_PRESSED.png" media-type="image/png" />
+		<item id="Twinings_Museum_FOLDER_WINDOW.png" href="image/Twinings_Museum_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="UAL_Folder.png" href="image/UAL_Folder.png" media-type="image/png" />
+		<item id="UAL_Folder_pressed.png" href="image/UAL_Folder_pressed.png" media-type="image/png" />
+		<item id="UAL_Folder_pressed1.png" href="image/UAL_Folder_pressed1.png" media-type="image/png" />
+		<item id="UAL_Folder_red.png" href="image/UAL_Folder_red.png" media-type="image/png" />
+		<item id="Ual_folder_window.png" href="image/Ual_folder_window.png" media-type="image/png" />
+		<item id="Ual_folder_window_under.png" href="image/Ual_folder_window_under.png" media-type="image/png" />
+		<item id="UAL_task.png" href="image/UAL_task.png" media-type="image/png" />
+		<item id="UAL_task1.png" href="image/UAL_task1.png" media-type="image/png" />
+		<item id="UAL_task_not_pressed.png" href="image/UAL_task_not_pressed.png" media-type="image/png" />
+		<item id="UAL_task_not_pressed1.png" href="image/UAL_task_not_pressed1.png" media-type="image/png" />
+		<item id="UAL_task_not_pressed2.png" href="image/UAL_task_not_pressed2.png" media-type="image/png" />
+		<item id="UAL_task_not_pressed3.png" href="image/UAL_task_not_pressed3.png" media-type="image/png" />
+		<item id="UBER_MOTO_-Directed_by_-fernando.nogari-_-_ICONOCLAST_IMAGE_WINDOW.png" href="image/UBER_MOTO_%28Directed_by_%40fernando.nogari%29_-_ICONOCLAST_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="Understanding_the_Brief_and_the_Brand_NOTES_WINDOW.png" href="image/Understanding_the_Brief_and_the_Brand_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Visiting_Tea2You_NOTES_WINDOW.png" href="image/Visiting_Tea2You_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="Visit_Archives_FOLDER_PRESSED.png" href="image/Visit_Archives_FOLDER_PRESSED.png" media-type="image/png" />
+		<item id="Visit_to_The_Archives_FOLDER_WINDOW.png" href="image/Visit_to_The_Archives_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="W95_Start_options.png" href="image/W95_Start_options.png" media-type="image/png" />
+		<item id="Wall_Diagram_Sketch_PAINT_WINDOW.png" href="image/Wall_Diagram_Sketch_PAINT_WINDOW.png" media-type="image/png" />
+		<item id="Welcome_window.png" href="image/Welcome_window.png" media-type="image/png" />
+		<item id="Welcome_window_2.png" href="image/Welcome_window_2.png" media-type="image/png" />
+		<item id="WhatsApp_Image_2024-03-08_at_18.01.43_932c8deb_IMAGE_WINDOW.png" href="image/WhatsApp_Image_2024-03-08_at_18.01.43_932c8deb_IMAGE_WINDOW.png" media-type="image/png" />
+		<item id="WHATSAPP_WINDOW_1.png" href="image/WHATSAPP_WINDOW_1.png" media-type="image/png" />
+		<item id="WHATSAPP_WINDOW_2.png" href="image/WHATSAPP_WINDOW_2.png" media-type="image/png" />
+		<item id="What_does_collaboration_mean_to_me.png" href="image/What_does_collaboration_mean_to_me.png" media-type="image/png" />
+		<item id="What_does_collaboration_mean_to_me_2.0_NOTES_WINDOW.png" href="image/What_does_collaboration_mean_to_me_2.0_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="What_does_collaboration_mean_to_me_PRESSEd.png" href="image/What_does_collaboration_mean_to_me_PRESSEd.png" media-type="image/png" />
+		<item id="What_does_collaboration_mean_to_me_PRESSED1.png" href="image/What_does_collaboration_mean_to_me_PRESSED1.png" media-type="image/png" />
+		<item id="What_does_collaboration_mean_to_me_red.png" href="image/What_does_collaboration_mean_to_me_red.png" media-type="image/png" />
+		<item id="When_Collaboration_becomes_a_Filter_System_NOTES_WINDOW.png" href="image/When_Collaboration_becomes_a_Filter_System_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="why_Why_WHY_NOTES_WINDOW.png" href="image/why_Why_WHY_NOTES_WINDOW.png" media-type="image/png" />
+		<item id="WIP_Review_-26.02.2024-_Presentation_Feedback_PDF_WINDOW.png" href="image/WIP_Review_%2826.02.2024%29_Presentation_Feedback_PDF_WINDOW.png" media-type="image/png" />
+		<item id="Workshops_folder_pressed.png" href="image/Workshops_folder_pressed.png" media-type="image/png" />
+		<item id="Workshops_folder_pressed1.png" href="image/Workshops_folder_pressed1.png" media-type="image/png" />
+		<item id="Workshops_folder_pressed2.png" href="image/Workshops_folder_pressed2.png" media-type="image/png" />
+		<item id="Workshops_folder_pressed3.png" href="image/Workshops_folder_pressed3.png" media-type="image/png" />
+		<item id="workshops_task_bar_p.png" href="image/workshops_task_bar_p.png" media-type="image/png" />
+		<item id="workshops_task_bar_p1.png" href="image/workshops_task_bar_p1.png" media-type="image/png" />
+		<item id="Workshop_FOLDER_WINDOW.png" href="image/Workshop_FOLDER_WINDOW.png" media-type="image/png" />
+		<item id="Workshop_Notes_-_Paint_WINDOW_STORYBOARD.png" href="image/Workshop_Notes_-_Paint_WINDOW_STORYBOARD.png" media-type="image/png" />
+		<item id="Workshop_Notes_PAINT_WINDOW.png" href="image/Workshop_Notes_PAINT_WINDOW.png" media-type="image/png" />
+		<item id="Workshop_Notes_PAINT_WINDOW_2.png" href="image/Workshop_Notes_PAINT_WINDOW_2.png" media-type="image/png" />
+		<item id="Workshop_Notes_PAINT_WINDOW_COPY.png" href="image/Workshop_Notes_PAINT_WINDOW_COPY.png" media-type="image/png" />
+		<item id="yes_button.png" href="image/yes_button.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-1" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-2" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-3" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-4" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-5" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-6" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-7" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-8" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-9" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-10" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-11" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-12" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-13" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-14" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-15" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-16" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-17" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-18" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-19" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-20" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-21" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-22" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-23" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-24" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-25" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-26" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-27" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-28" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-29" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-30" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-31" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-32" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-33" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-34" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-35" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-36" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-37" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-38" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-39" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-40" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-41" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-42" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-43" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-44" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-45" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-46" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-47" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-48" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-49" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-50" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-51" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-52" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-53" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-54" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-55" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-56" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-57" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-58" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-59" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-60" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-61" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-62" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-63" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-64" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-65" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-66" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-67" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-68" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-69" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-70" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-71" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-72" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-73" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-74" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-75" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-76" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-77" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-78" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-79" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-80" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-81" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-82" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-83" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-84" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-85" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-86" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-87" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-88" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-89" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-90" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-91" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-92" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-93" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-94" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-95" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-96" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-97" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-98" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-99" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-100" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-101" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-102" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-103" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-104" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-105" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-106" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-107" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-108" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-109" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-110" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-111" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-112" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-113" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-114" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-115" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-116" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-117" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-118" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-119" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-120" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-121" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-122" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-123" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-124" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-125" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-126" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-127" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-128" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-129" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-130" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-131" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-132" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-133" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-134" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-135" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-136" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-137" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-138" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-139" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-140" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-141" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-142" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-143" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-144" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-145" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-146" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-147" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-148" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-149" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-150" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-151" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-152" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-153" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-154" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-155" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-156" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-157" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-158" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-159" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-160" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-161" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-162" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-163" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-164" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-165" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-166" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-167" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-168" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-169" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-170" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-171" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-172" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-173" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-174" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-175" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-176" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-177" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-178" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-179" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-180" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-181" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-182" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-183" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-184" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-185" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-186" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-187" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-188" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-189" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-190" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-191" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-192" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-193" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-194" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-195" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-196" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-197" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-198" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-199" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-200" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-201" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-202" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-203" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-204" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-205" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-206" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-207" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-208" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-209" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-210" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-211" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-212" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-213" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-214" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-215" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-216" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-217" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-218" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-219" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-220" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-221" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-222" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-223" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-224" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-225" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-226" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-227" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-228" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-229" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-230" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-231" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-232" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-233" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-234" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-235" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-236" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-237" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-238" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-239" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-240" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-241" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-242" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-243" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-244" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-245" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-246" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-247" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-248" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-249" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-250" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-251" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-252" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-253" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-254" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-255" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-256" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-257" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-258" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-259" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-260" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-261" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-262" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-263" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-264" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-265" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-266" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-267" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-268" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-269" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-270" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-271" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-272" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-273" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-274" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-275" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-276" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-277" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-278" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-279" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-280" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-281" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-282" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-283" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-284" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-285" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-286" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-287" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-288" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-289" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-290" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-291" />
+		<itemref idref="Unit_03_Portfolio_-_Patricia_Guedan_-_Copy-292" />
+	</spine>
+</package>
